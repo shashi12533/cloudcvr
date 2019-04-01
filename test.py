@@ -1,5 +1,5 @@
 import unittest
-from test2 import obj
+from test import obj
 
 
 class TestStringMethods(unittest.TestCase):
